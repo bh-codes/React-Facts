@@ -1,6 +1,7 @@
 * {
   font-family: "Inter", sans-serif;
   margin: 0;
+  width: 100%;
 }
 
 .header {
@@ -44,8 +45,8 @@ h4 {
 }
 
 .body--image {
-  max-height: 270px;
-  padding-top: ;
+  height: 270px;
+  width: 127px;
 }
 
 .main--title {
