@@ -3,7 +3,7 @@ import { createRoot } from "react-dom/client";
 
 const page = (
   <div>
-    <img src={require("/react-logo.png")} width="40px" alt="react-logo" />
+    <img src={require("../react-logo.png")} width="40px" alt="react-logo" />
     <h1>Fun facts about React</h1>
     <ul>
       <li>Was first released in 2013</li>
